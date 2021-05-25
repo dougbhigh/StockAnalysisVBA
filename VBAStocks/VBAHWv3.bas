@@ -13,6 +13,7 @@ Option Explicit
 '      -if initial stock record has an opening price of zero and year close is   '
 '       non-zero then the opening price is set to a low value of $0.01 so as to  '
 '       allow it to be a divisor, if both equal zero then change % set to zero.  '
+'  *- 5/2021 repo name change, added teting files, no code changes               '
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Sub VBAHWv3()
 '''''''''''''''''''''''''''''

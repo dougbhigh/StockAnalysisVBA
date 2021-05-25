@@ -6,6 +6,7 @@ Option Explicit
 '  macro 1 of 4 : VBAHWv1                                                       '                                                                               '
 '   - reads in spreadsheet of stock records sorted by date within ticker symbol '
 '   - produces summary of each stock for the year in columns I:L                '
+'  *- 5/2021 repo name change, added teting files, no code changes              '
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Sub VBAHWv1()
 

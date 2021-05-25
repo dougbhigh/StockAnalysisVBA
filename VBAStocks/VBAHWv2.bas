@@ -10,6 +10,7 @@ Option Explicit
 '     and decrease(%) and largest volume.                                        '
 '    it assumes the first record for each stock has an opening price and the     '
 '    last record has a closing price.                                            '
+'  *- 5/2021 repo name change, added teting files, no code changes               '
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Sub VBAHWv2()
 '''''''''''''''''''''''''''''

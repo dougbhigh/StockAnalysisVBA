@@ -14,6 +14,7 @@ Option Explicit
 '     in search of a record with an opening balance.                             '
 '   - added code to check for closing price of zero when opening price is        '
 '     nonzero, also added error processing for above two conditions.             '
+'  *- 5/2021 repo name change, added teting files, no code changes               '
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Sub VBAHWv4()
 '''''''''''''''''''''''''''''
